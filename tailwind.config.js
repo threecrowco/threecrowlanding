@@ -1,6 +1,10 @@
 module.exports = {
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'brand-sans': ['sofia-pro, sans-serif'],
+      }
+    },
   },
   variants: {},
   plugins: [],
